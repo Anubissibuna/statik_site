@@ -1,5 +1,5 @@
 body {
-    background-image: url("site/dota4.jpg") no-repeat;
+    background: url("site/dota4.jpg") no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: 100% 100%;
