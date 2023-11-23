@@ -1,6 +1,5 @@
 body {
-    background-image: url("site/dota4.jpg");
-	background-repeat: no-repeat;
+    background-image: url("site/dota4.jpg") no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -9,7 +8,7 @@ body {
 .main {
     background: url("site/dota2.jpg") no-repeat;
     width: 60%;
-	height: 100%;
+    height: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 100px;
